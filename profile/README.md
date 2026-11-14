@@ -66,6 +66,6 @@ Practical guides from our development work, each stating the nopCommerce version
 
 Planning a custom storefront, a nopCommerce extension, a B2B portal or an integration? Tell us about your requirements, existing systems and timeline.
 
-📧 [contact@cartenvo.com](mailto:contact@cartenvo.com) · 🌐 [cartenvo.com/contact](https://cartenvo.com/contact) · ⭐ [Cartenvo on Clutch](https://clutch.co/profile/cartenvo) · 🛒 [Cartenvo on nopCommerce.com](https://www.nopcommerce.com/en/profile/102768771)
+📧 [contact@cartenvo.com](mailto:contact@cartenvo.com) · 🌐 [cartenvo.com/contact](https://cartenvo.com/contact) · 💼 [Cartenvo on LinkedIn](https://www.linkedin.com/company/cartenvo) · ⭐ [Cartenvo on Clutch](https://clutch.co/profile/cartenvo) · 🛒 [Cartenvo on nopCommerce.com](https://www.nopcommerce.com/en/profile/102768771)
 
 <sub>Cartenvo · Dhaka, Bangladesh · Working with clients worldwide</sub>
