@@ -41,6 +41,11 @@ We work on stores running **nopCommerce 4.50 to 5.00** (ASP.NET Core, .NET 9 and
 
 Browse everything in the [Cartenvo store](https://cartenvo.com/store).
 
+### Open source
+
+- [Cartenvo.Plugin.Misc.StorePulse](https://github.com/Cartenvo-BD/Cartenvo.Plugin.Misc.StorePulse): the StorePulse health check plugin for nopCommerce (Apache 2.0)
+- [n8n-nodes-cartenvo](https://github.com/Cartenvo-BD/n8n-nodes-cartenvo): n8n community nodes for Integration Hub (MIT)
+
 ## nopCommerce guides
 
 Practical guides from our development work, each stating the nopCommerce versions it covers:
